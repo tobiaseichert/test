@@ -1,5 +1,5 @@
 {
-    "name": "tobiaseichert/test-module",
+    "name": "tobiaseichert/test-library",
     "description": "Test Module",
     "type": "library",
     "license": "GPL-2.0+",
