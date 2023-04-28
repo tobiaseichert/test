@@ -1,0 +1,12 @@
+{
+    "name": "tobiaseichert/test-module",
+    "description": "Test Module",
+    "type": "library",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Tobias Eichert",
+            "email": "digital@spektrum.de"
+        }
+    ]
+}
